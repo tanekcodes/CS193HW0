@@ -1,4 +1,4 @@
-# Tanek's CS193 First CS193 Homework
+# Tanek's First CS193 Homework
 
 My Favorite Things About CS193
 - No Exams
